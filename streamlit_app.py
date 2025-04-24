@@ -1,5 +1,7 @@
 import streamlit as st
 
-st.title("🎈 Farelganteng😎")
+st.title("🎈 Mauricitarumboys😎")
 st.write(
-"kenapa farel ganteng banget")
+"kenapa rambut mauri kaya jamur busuk")
+
+st.image("view/
